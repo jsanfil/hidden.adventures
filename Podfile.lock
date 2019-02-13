@@ -1,0 +1,68 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AlamofireImage (3.4.1):
+    - Alamofire (~> 4.7)
+  - AlamofireObjectMapper (5.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.3)
+  - AsyncSwift (2.0.4)
+  - AWSCognitoIdentityProvider (2.6.32):
+    - AWSCognitoIdentityProviderASF (= 1.0.1)
+    - AWSCore (= 2.6.32)
+  - AWSCognitoIdentityProviderASF (1.0.1)
+  - AWSCore (2.6.32)
+  - Cosmos (17.0.0)
+  - IQKeyboardManagerSwift (6.2.0)
+  - Kingfisher (4.10.0)
+  - ObjectMapper (3.3.0)
+  - ScalingCarousel (2.4.1)
+  - StepSlider (1.2.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - AlamofireImage (~> 3.3)
+  - AlamofireObjectMapper (~> 5.0)
+  - AsyncSwift
+  - AWSCognitoIdentityProvider (~> 2.6.0)
+  - AWSCore (~> 2.6.0)
+  - Cosmos
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 4.0)
+  - ObjectMapper (~> 3.1)
+  - ScalingCarousel
+  - StepSlider
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireObjectMapper
+    - AsyncSwift
+    - AWSCognitoIdentityProvider
+    - AWSCognitoIdentityProviderASF
+    - AWSCore
+    - Cosmos
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - ObjectMapper
+    - ScalingCarousel
+    - StepSlider
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AlamofireImage: 78d67ccbb763d87ba44b21583d2153500a195630
+  AlamofireObjectMapper: 3395e698901d8b0e6f48b7d0c43bd47875325102
+  AsyncSwift: 65775a7b32e740609b24969ece3de58723b9dc3e
+  AWSCognitoIdentityProvider: 1ac74ed3ddc96a1e072868c10d43f8630eebdfed
+  AWSCognitoIdentityProviderASF: f94f1a502e72ef3d0a1de93e10bf7a79c8698118
+  AWSCore: bfb49938a3a4eb190bc68edf1fa9e90969de8fa2
+  Cosmos: 309e489f21ffc91a1eeecfebef7f817cd2fcfba6
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  Kingfisher: 43c4b802d8b5256cf1f4379e9cd10b329be6d3e2
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+  ScalingCarousel: 2f8d7d7dc02a4aff33ad0ca4148f9b27b2c8f91c
+  StepSlider: e1c9b8f3363cf87224e19c000abe9f5146f80dd1
+
+PODFILE CHECKSUM: 67da83973f3880c713f56b29f78901893901da37
+
+COCOAPODS: 1.5.3
